@@ -1,5 +1,5 @@
 # projektZajavka
-Opis (streszcenie) projektu. Aplikacja do zamawiania jedzenia. 
+Opis (streszczenie) projektu. Aplikacja do zamawiania jedzenia. 
 Projekt został zrealizowany z użyciem Mavena, wraz z odpowiednimi komentarzami w pliku pom.xml:
 
 Klasy encji w projekcie.
